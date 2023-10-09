@@ -11,14 +11,13 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: home/hero
-    title: Beautiful email campaignsz
+    title: Simple Astro Bookshop Template
     description: >-
-      With Sendit, you can quickly create beautiful rich emails that capture a
-      reader's attention, engage them, and convert them into customers.
+      This template is based on Astro Sendit, but simplified for demo and reference purposes.
     image: /images/hero/hero-image-2.png
     image_alt: Reports dashboard
     button:
-      text: Try This Free
+      text: Signup
       link: /signup/
   - _bookshop_name: global/counter
     title: Scale your

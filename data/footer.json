@@ -33,14 +33,6 @@
           "text": "Home"
         },
         {
-          "link": "/features/",
-          "text": "Features"
-        },
-        {
-          "link": "/pricing/",
-          "text": "Price"
-        },
-        {
           "link": "/about/",
           "text": "About"
         }
